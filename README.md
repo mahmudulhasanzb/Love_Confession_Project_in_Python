@@ -1,16 +1,21 @@
 💌 Love Confession Project :
 A playful, interactive app built with Python and Tkinter to make a lighthearted love confession. Input your crush's name, ask the big question, and see how they respond! This app also incorporates animated images and a fun "No" button that moves around when pressed, making for a humorous experience.
 
+
 📋 Features
 Interactive Name Input: Prompts the user to input their name.
 Animated "No" Button: The "No" button avoids the user's click by changing positions randomly.
 Cute Popup Message: Shows a love-themed popup with a sweet message if the user clicks "Yes."
 Image Support: Uses PIL to handle and display images for added flair.
+
+
 📦 Requirements
 Make sure you have the following installed:
 
 tkinter - for GUI
 Pillow - for image processing (pip install pillow)
+
+
 🚀 Setup and Run
 Clone the repository:
 
